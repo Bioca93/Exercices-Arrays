@@ -1,2 +1,2 @@
-# Exercices-Arrays
-Exercices with Arrays
+# Exercises-Arrays
+Exercises with Arrays
